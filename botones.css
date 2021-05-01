@@ -1,0 +1,64 @@
+body {
+    background-color: cornflowerblue;
+}
+
+.div1 {
+   background-color: mediumpurple;
+   margin-left: 800px;
+   margin-right: 875px;
+   
+
+}
+
+h1 {
+    color: orange;
+}
+
+.boton1 {
+    width: 400px;
+    height: 400px;
+    border-radius: 200px;
+    background-color: darkkhaki;
+    margin-right: 30px;
+    margin-left: 5px;
+    font-size: 50px;
+}
+
+.boton2 {
+    width: 400px;
+    height: 200px;
+    border-radius: 20px;
+    background-color: darkmagenta;
+    font-size: 30px;
+}
+
+.boton3 {
+    width: 400px;
+    height: 200px;
+    color: red;
+    border: none;
+    background-color: transparent; 
+    font-size: 30px;         
+}
+
+.boton4 {
+    width: 330px;
+    height: 290px;
+    background-image: url(https://zillionaire.mx/wp-content/uploads/2020/04/Portada-Datos-curiosos-de-Travis-Scott-que-no-conoci%CC%81as-astronomical-fortnite-cool-Instagram-tiktok.jpg);
+    background-position: center;
+    background-size: cover;
+    font-size: 1px;   
+}
+
+.boton5 {
+    width: 136px;
+    height: 190px;
+    -moz-border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+    -webkit-border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+    border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+    margin-left: 30px;
+    font-size: 20px;
+    background-image: url(https://png.pngtree.com/png-clipart/20190409/ourlarge/pngtree-egg-png-image_904271.jpg);
+    background-position: center;
+}
+
